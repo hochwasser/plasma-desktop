@@ -229,3 +229,5 @@ void ExcludedApplicationsModel::setEnabled(bool enabled)
 }
 
 // #include <ExcludedApplicationsModel.moc>
+
+#include "moc_ExcludedApplicationsModel.cpp"

@@ -242,3 +242,5 @@ QHash<int, QByteArray> FilteredFolderModel::roleNames() const
             {Deletable, "deletable"},
             {Qt::DecorationRole, "decoration"}};
 }
+
+#include "moc_filteredfoldermodel.cpp"
